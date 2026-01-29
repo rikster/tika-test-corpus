@@ -2,6 +2,8 @@
 
 This repository contains a curated corpus derived from the Apache Tika test resources.
 
+**Version 2.0** - All filenames have been simplified for improved usability! 91% of files now have names ≤30 characters.
+
 ## Structure
 
 _tika_corpus/
@@ -11,8 +13,10 @@ _tika_corpus/
 
 ## Stats
 
-- Good files: 924
-- Gnarly files: 92
+- Total files: 1,017
+- Good files: 927
+- Gnarly files: 90
+- Files with names ≤30 chars: 927 (91%)
 
 ## Provenance
 
